@@ -19,7 +19,7 @@ header {
     overflow: hidden;
 }
 
-header h1 {
+header .logo {
     margin: 0;
 }
 
@@ -217,7 +217,7 @@ footer {
 
 }
 
-footer h1 {
+footer .logo {
     margin: 0;
 }
 
